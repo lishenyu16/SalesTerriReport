@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SalesTerriReport", "SalesTerriReport\SalesTerriReport.rptproj", "{954A3511-7E3B-49FD-B081-3B48F344F938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{954A3511-7E3B-49FD-B081-3B48F344F938}.Debug|Default.ActiveCfg = Debug
+		{954A3511-7E3B-49FD-B081-3B48F344F938}.Debug|Default.Build.0 = Debug
+		{954A3511-7E3B-49FD-B081-3B48F344F938}.Debug|Default.Deploy.0 = Debug
+		{954A3511-7E3B-49FD-B081-3B48F344F938}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{954A3511-7E3B-49FD-B081-3B48F344F938}.DebugLocal|Default.Build.0 = DebugLocal
+		{954A3511-7E3B-49FD-B081-3B48F344F938}.Release|Default.ActiveCfg = Release
+		{954A3511-7E3B-49FD-B081-3B48F344F938}.Release|Default.Build.0 = Release
+		{954A3511-7E3B-49FD-B081-3B48F344F938}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B582551-284A-4B86-888E-24ACE892405E}
+	EndGlobalSection
+EndGlobal
